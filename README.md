@@ -1,7 +1,7 @@
 # FlickerSearch
 That app is basically depends on keywords search, using Flicker'Apis.
 
-Usage of App: /n
+Usage of App: 
 Users of your app should be able to fetch photos by searching for any particular keyword. 
 
 Version Support:
